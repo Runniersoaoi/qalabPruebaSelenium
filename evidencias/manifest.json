@@ -1,0 +1,87 @@
+[
+ [
+  "evidencias/esc1-01-passed-estoy-en-la-p-gina-de-la-tienda.png",
+  "passed",
+  "Dado estoy en la página de la tienda"
+ ],
+ [
+  "evidencias/esc1-02-passed-me-logueo-con-mi-usuario-matiasaquinozc-gm.png",
+  "passed",
+  "Y me logueo con mi usuario \"matiasaquinozc@gmail.com\" y clave \"Paasw0rd@123\""
+ ],
+ [
+  "evidencias/esc1-03-passed-valido-que-el-usuario-se-encuentre-autenti.png",
+  "passed",
+  "Entonces valido que el usuario se encuentre autenticado"
+ ],
+ [
+  "evidencias/esc1-04-passed-navego-a-la-categoria-clothes-y-subcategor.png",
+  "passed",
+  "Cuando navego a la categoria \"Clothes\" y subcategoria \"Men\""
+ ],
+ [
+  "evidencias/esc1-05-passed-agrego-2-unidades-del-primer-producto-al-c.png",
+  "passed",
+  "Y agrego 2 unidades del primer producto al carrito"
+ ],
+ [
+  "evidencias/esc1-06-passed-valido-en-el-popup-la-confirmaci-n-del-pro.png",
+  "passed",
+  "Entonces valido en el popup la confirmación del producto agregado"
+ ],
+ [
+  "evidencias/esc1-07-passed-valido-en-el-popup-que-el-monto-total-sea.png",
+  "passed",
+  "Y valido en el popup que el monto total sea calculado correctamente"
+ ],
+ [
+  "evidencias/esc1-08-passed-finalizo-la-compra.png",
+  "passed",
+  "Cuando finalizo la compra"
+ ],
+ [
+  "evidencias/esc1-09-passed-valido-el-titulo-de-la-pagina-del-carrito.png",
+  "passed",
+  "Entonces valido el titulo de la pagina del carrito"
+ ],
+ [
+  "evidencias/esc1-10-passed-vuelvo-a-validar-el-calculo-de-precios-en.png",
+  "passed",
+  "Y vuelvo a validar el calculo de precios en el carrito"
+ ],
+ [
+  "evidencias/esc2-01-passed-estoy-en-la-p-gina-de-la-tienda.png",
+  "passed",
+  "Dado estoy en la página de la tienda"
+ ],
+ [
+  "evidencias/esc2-02-passed-me-logueo-con-mi-usuario-usuario-invalido.png",
+  "passed",
+  "Y me logueo con mi usuario \"usuario_invalido@mail.com\" y clave \"ClaveIncorrecta\""
+ ],
+ [
+  "evidencias/esc2-03-failed-valido-que-el-usuario-se-encuentre-autenti.png",
+  "failed",
+  "Entonces valido que el usuario se encuentre autenticado"
+ ],
+ [
+  "evidencias/esc3-01-passed-estoy-en-la-p-gina-de-la-tienda.png",
+  "passed",
+  "Dado estoy en la página de la tienda"
+ ],
+ [
+  "evidencias/esc3-02-passed-me-logueo-con-mi-usuario-matiasaquinozc-gm.png",
+  "passed",
+  "Y me logueo con mi usuario \"matiasaquinozc@gmail.com\" y clave \"Paasw0rd@123\""
+ ],
+ [
+  "evidencias/esc3-03-passed-valido-que-el-usuario-se-encuentre-autenti.png",
+  "passed",
+  "Entonces valido que el usuario se encuentre autenticado"
+ ],
+ [
+  "evidencias/esc3-04-failed-navego-a-la-categoria-autos-y-subcategoria.png",
+  "failed",
+  "Cuando navego a la categoria \"Autos\" y subcategoria \"Men\""
+ ]
+]
